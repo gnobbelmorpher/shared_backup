@@ -96,3 +96,4 @@ Add the other public key to the corresponding users ```/home/UNAME/.ssh/authoriz
 ## Links
 - https://wiki.archlinux.org/title/WireGuard
 - https://wiki.archlinux.org/title/ECryptfs
+- https://pad.finf.uni-hannover.de/Q5hyzKuCTsK9ww2trOgMeA#
